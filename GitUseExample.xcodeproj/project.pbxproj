@@ -13,6 +13,7 @@
 		6033F1042360062D00BD83C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6033F1022360062D00BD83C4 /* Main.storyboard */; };
 		6033F1062360063300BD83C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6033F1052360063300BD83C4 /* Assets.xcassets */; };
 		6033F1092360063300BD83C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6033F1072360063300BD83C4 /* LaunchScreen.storyboard */; };
+		6033F1112360095100BD83C4 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6033F1102360095100BD83C4 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6033F1052360063300BD83C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6033F1082360063300BD83C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6033F10A2360063300BD83C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6033F1102360095100BD83C4 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6033F0FE2360062D00BD83C4 /* SceneDelegate.swift */,
 				6033F1002360062D00BD83C4 /* ViewController.swift */,
 				6033F1022360062D00BD83C4 /* Main.storyboard */,
+				6033F1102360095100BD83C4 /* MapForItinerary.swift */,
 				6033F1052360063300BD83C4 /* Assets.xcassets */,
 				6033F1072360063300BD83C4 /* LaunchScreen.storyboard */,
 				6033F10A2360063300BD83C4 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6033F1112360095100BD83C4 /* MapForItinerary.swift in Sources */,
 				6033F1012360062D00BD83C4 /* ViewController.swift in Sources */,
 				6033F0FD2360062D00BD83C4 /* AppDelegate.swift in Sources */,
 				6033F0FF2360062D00BD83C4 /* SceneDelegate.swift in Sources */,
